@@ -1,16 +1,29 @@
 
-THIS A BRANCH TEST - BRANCHING OFF MASTER TO 'EXPERIMENTAL'
+THIS IS THE SECOND BRANCHING OFF MASTER TEST
 
 This is a t
 est of creating a 
-new fther empty ile 
-on Github.
-This is an empty line.
+ne
+w fther empty ile 
+on Githpty line.
 This was a
 n ad
-ded, edited line, which I added after I created this file.
+ded, edited line, which
+I added after I crub.
+This is an
+
+empty line.
+This was a
+n ad
+ded, edited line, which
+I added after I created this file.
 Another empty line.
-This is a third 
+This
+This
+is r I created this file.
+Anotr empty line.
+This
+is a third 
 edited line. Th
 
 THIS IS AN EDIT OF MASTER BRANCH, WHILE SECONDEXPERIMENTALBRANCH IS OPEN AND CREATED AND YET 
