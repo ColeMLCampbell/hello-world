@@ -12,3 +12,6 @@ ded, edited line, which I added after I created this file.
 Another empty line.
 This is a third 
 edited line. Th
+
+THIS IS AN EDIT OF MASTER BRANCH, WHILE SECONDEXPERIMENTALBRANCH IS OPEN AND CREATED AND YET 
+TO BE PULLED. THEN I WILL TRY TO MERGE THE TWO EDITED BRANCHES TO MASTER.
